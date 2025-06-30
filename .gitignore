@@ -1,0 +1,19 @@
+# dependencies
+node_modules/
+.pnpm/
+.vscode/
+
+# production build
+dist/
+build/
+
+# system files
+.DS_Store
+Thumbs.db
+
+# logs and temporary files
+*.log
+*.tmp
+
+# Chrome Extension cache/storage
+chrome-profile/
